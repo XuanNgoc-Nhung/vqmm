@@ -1,0 +1,72 @@
+text {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    pointer-events: none;
+}
+
+#chart {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: 0;
+    left: 0;
+}
+
+#question {
+    position: absolute;
+    width: 400px;
+    height: 500px;
+    top: 0;
+    left: 520px;
+}
+
+#question h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.contact-form {
+    position: relative;
+    max-width: 350px;
+    padding-top: 10px;
+}
+
+.contact-form img {
+    max-width: 100%;
+}
+
+.contact-form__input {
+    position: absolute;
+    right: 4rem;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 42%;
+    height: 40px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #5a5b5e;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact-submit__btn {
+    background: transparent;
+    border: none;
+    outline: none;
+    max-width: 240px;
+    cursor: pointer;
+    padding-top: 7px;
+}
+
+.contact-submit__btn img{
+    max-width: 100%;
+}
