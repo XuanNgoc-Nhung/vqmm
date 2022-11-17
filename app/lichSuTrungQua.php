@@ -8,7 +8,7 @@ class lichSuTrungQua extends Model
 {
     //
     protected $fillable = [
-        'id','phone', 'reward', 'status'
+        'id','phone', 'reward', 'status','created_at'
     ];
     protected $table = 'lich-su-trung-qua';
 }

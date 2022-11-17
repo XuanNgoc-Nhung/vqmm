@@ -82,7 +82,8 @@ class LuckyWheelController extends Controller
                     $lichSuTrungQua = [
                         'phone' => $phone,
                         'reward' => $idPhanThuong,
-                        'status' => 1
+                        'status' => 1,
+                        'created_at' => Carbon::now(),
                     ];
                     DB::beginTransaction();
                     lichSuTrungQua::create($lichSuTrungQua);

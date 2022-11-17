@@ -1,0 +1,1236 @@
+* {
+    font-family: 'Inter';
+}
+
+.home-one-banner {
+    padding: unset;
+}
+
+.nav-bg {
+    border-radius: 0px;
+}
+
+.black-font>li>a {
+    font-size: 14px;
+}
+
+.nav-bg .login-blue-bg {
+    font-size: 14px;
+    font-weight: unset;
+    color: #1A9CC6;
+    font-family: 'Encode Sans', sans-serif;
+    padding: 10px 30px;
+    text-align: center;
+    background: #E0F3F7;
+    border: unset;
+    box-shadow: inset 0 0 0 0 #ffffff;
+    border-radius: 8px;
+    min-width: 110px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.nav-bg .login-blue-bg:hover {
+    color: #1A9CC6;
+    border: 1px solid #1A9CC6;
+    background: #FFFFFF;
+    box-shadow: inset 0 50px 0 0 #ffffff;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.nav-bg .signup-white-bg {
+    font-size: 14px;
+    font-weight: unset;
+    color: #ffffff;
+    font-family: 'Encode Sans', sans-serif;
+    padding: 10px 30px;
+    text-align: center;
+    background: #1A9CC6;
+    border: unset;
+    box-shadow: inset 0 0 0 0 #0071dc;
+    border-radius: 8px;
+    min-width: 110px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.nav-bg .signup-white-bg:hover {
+    color: #fff;
+    border: unset !important;
+    background: #ffffff;
+    box-shadow: inset 0 50px 0 0 #0071dc !important;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.sophia-app p {
+    color: #1A9CC6;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 28px;
+    background: #ffffff;
+    padding: 8px 20px;
+    border-radius: 40px;
+    width: fit-content;
+}
+
+.doctor-service {
+    font-size: 32px;
+    font-weight: 800;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+
+.doctor-service p {
+    margin-bottom: 0;
+}
+
+.doctor-service .healthcare {
+    color: #8f8f8f;
+}
+
+.doctor-service .online {
+    color: #1A9CC6;
+}
+
+.banner-details span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.download-app {
+    margin-top: 20px;
+}
+
+.download-app p {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+}
+
+.download-android-app {
+    margin-left: 16px;
+}
+
+.search-on-banner {
+    margin-top: 56px;
+    background: white;
+    padding: 10px 20px;
+    border-radius: 16px;
+    box-shadow: 0px 12px 20px 5px #1a9cc638;
+}
+
+.search-on-banner .form-group {
+    position: relative;
+    margin-bottom: unset;
+}
+
+.search-on-banner .form-control {
+    background: transparent;
+    border: transparent;
+    position: relative;
+    height: auto;
+    padding: 0px 26px;
+}
+
+.search-on-banner i {
+    color: #0071DC;
+    font-size: 18px;
+    position: absolute;
+    top: 15px;
+}
+
+.btn-search-on-banner {
+    position: absolute;
+    top: 5px;
+    right: 0;
+    background: #1A9CC6;
+    color: #FFFFFF;
+    border: unset;
+    border-radius: 8px;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 7px 16px;
+}
+
+.appoinment-box {
+    background: #ECFAFD;
+    border-radius: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: unset;
+}
+
+.hospital-items {
+    text-align: center;
+}
+
+.home-one-banner {
+    padding-bottom: 100px;
+    background: linear-gradient(180deg, rgba(184, 243, 255, 0.3) 0%, rgba(224, 243, 247, 0) 100%);
+}
+
+#phone-banner {
+    text-align: center;
+}
+
+#banner-top {
+    padding-top: 30px;
+}
+
+.bg-shapes .shape-01 {
+    position: absolute;
+    top: 250px;
+    left: 52.5%;
+}
+
+.bg-shapes .shape-03 {
+    position: absolute;
+    left: 40%;
+    top: 30px;
+}
+
+.bg-shapes .shape-04 {
+    position: absolute;
+    right: 0;
+    top: 57px;
+}
+
+.bg-shapes .shape-02 {
+    position: absolute;
+    right: 50px;
+    top: 490px;
+    width: 110px;
+}
+
+.bg-shapes .shape-05 {
+    position: absolute;
+    left: 0px;
+    top: 460px;
+    width: 110px;
+}
+
+.bg-shapes .shape-06 {
+    position: absolute;
+    left: 40%;
+    top: 400px;
+}
+
+.doctor-services {
+    position: relative;
+    padding-top: 200px;
+}
+
+.doctor-services-back img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.doctor-front {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.doctor-front img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.doctor-shape-1 {
+    position: absolute;
+    top: 200px;
+}
+
+.doctor-shape-2 {
+    position: absolute;
+    top: 450px;
+    left: 50px;
+}
+
+.doctor-shape-3 {
+    position: absolute;
+    top: 300px;
+    right: 50px;
+}
+
+/* Start Purple */
+
+.doctor-service-purple {
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
+.number-icon-purple {
+    position: relative;
+}
+
+.number-icon-purple h2 {
+    color: #A172D2;
+    font-weight: bold;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+}
+
+.doctor-service-purple {
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 22px;
+}
+
+.doctor-service-purple:hover {
+    box-shadow: 0px 16px 48px rgba(161, 114, 210, 0.16);
+}
+
+.doctor-service-description-purple {
+    margin-left: 24px;
+}
+
+.doctor-service-description-purple p {
+    color: #A172D2;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.number-icon-purple-background {
+    background: #F4E9FF;
+    border-radius: 0px 24px;
+    width: 48px;
+    height: 48px;
+}
+
+/* End Purple */
+
+/* Start Blue*/
+.number-icon-blue {
+    position: relative;
+}
+
+.number-icon-blue h2 {
+    color: #1A9CC6;
+    font-weight: bold;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+}
+
+.doctor-service-blue {
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 22px;
+}
+
+.doctor-service-blue:hover {
+    box-shadow: 0px 16px 48px rgba(20, 146, 187, 0.16);
+}
+
+.doctor-service-description-blue {
+    margin-left: 24px;
+}
+
+.doctor-service-description-blue p {
+    color: #1A9CC6;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.doctor-service-description-blue span {
+    color: #798395;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+}
+
+.number-icon-blue-background {
+    background: #E0F3F7;
+    border-radius: 0px 24px;
+    width: 48px;
+    height: 48px;
+}
+
+.doctor-service-blue {
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
+/* End Blue*/
+
+/* Start Red*/
+.number-icon-red {
+    position: relative;
+}
+
+.number-icon-red h2 {
+    color: #F44067;
+    font-weight: bold;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+}
+
+.doctor-service-red {
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 22px;
+}
+
+.doctor-service-red:hover {
+    box-shadow: 0px 16px 48px rgba(244, 64, 103, 0.16);
+
+}
+
+.doctor-service-description-red {
+    margin-left: 24px;
+}
+
+.doctor-service-description-red p {
+    color: #F44067;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.doctor-service-description-red span {
+    color: #798395;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+}
+
+.number-icon-red-background {
+    background: #FFE4E9;
+    border-radius: 0px 24px;
+    width: 48px;
+    height: 48px;
+}
+
+.doctor-service-red {
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
+/* End Red*/
+
+/*Start Yellow*/
+.number-icon-yellow {
+    position: relative;
+}
+
+.number-icon-yellow h2 {
+    color: #F5B11E;
+    font-weight: bold;
+    position: absolute;
+    top: -5px;
+    right: -10px;
+}
+
+.doctor-service-yellow {
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 22px;
+}
+
+.doctor-service-yellow:hover {
+    box-shadow: 0px 16px 48px rgba(245, 177, 30, 0.16);
+}
+
+.doctor-service-description-yellow {
+    margin-left: 24px;
+}
+
+.doctor-service-description-yellow p {
+    color: #F5B11E;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.doctor-service-description-yellow span {
+    color: #798395;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+}
+
+.number-icon-yellow-background {
+    background: #FFF7DC;
+    border-radius: 0px 24px;
+    width: 48px;
+    height: 48px;
+}
+
+.doctor-service-yellow {
+    width: 100%;
+    display: inline-flex;
+    margin-bottom: 10px;
+}
+
+/*End Yellow*/
+.btn-read-more {
+    position: absolute;
+    right: 30px;
+}
+
+.service-horizontal {
+    background: #ffffff;
+    padding: 12px;
+    text-align: left;
+    position: relative;
+    border-radius: 8px;
+}
+
+.service-horizontal:hover {
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.service-horizontal-blue:hover {
+    box-shadow: 0px 16px 48px rgba(20, 146, 187, 0.16);
+}
+
+.service-horizontal-red:hover {
+    box-shadow: 0px 16px 48px rgba(20, 146, 187, 0.16);
+}
+
+.service-horizontal-yellow:hover {
+    box-shadow: 0px 16px 48px rgba(245, 177, 30, 0.16);
+}
+
+.service-horizontal-purple:hover {
+    box-shadow: 0px 16px 48px rgba(161, 114, 210, 0.16);
+}
+
+.service-horizontal-image {
+    height: 200px;
+}
+
+.service-horizontal-blue-image img {
+    position: absolute;
+    border-radius: 8px;
+    width: 96%;
+    top: 0;
+    right: 0;
+    box-shadow: -11px 13px 0px rgba(26, 156, 198, 0.16);
+}
+
+.service-horizontal-red-image img {
+    position: absolute;
+    border-radius: 8px;
+    width: 96%;
+    top: 0;
+    right: 0;
+    box-shadow: -11px 13px 0px rgba(244, 64, 103, 0.16);
+}
+
+.service-horizontal-yellow-image img {
+    position: absolute;
+    border-radius: 8px;
+    width: 96%;
+    top: 0;
+    right: 0;
+    box-shadow: -11px 13px 0px rgba(245, 177, 30, 0.16);
+}
+
+.service-horizontal-purple-image img {
+    position: absolute;
+    border-radius: 8px;
+    width: 96%;
+    top: 0;
+    right: 0;
+    box-shadow: -11px 13px 0px rgba(161, 114, 210, 0.16);
+}
+
+.service-horizontal-content {
+    display: inline-flex;
+    height: 80px;
+}
+
+.service-horizontal-content-text p {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+
+.service-horizontal-blue-content-text p {
+    color: #1A9CC6;
+}
+
+.service-horizontal-red-content-text p {
+    color: #F44067;
+}
+
+.service-horizontal-yellow-content-text p {
+    color: #F5B11E;
+}
+
+.service-horizontal-blue-content-text span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+}
+
+.service-horizontal-red-content-text span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+}
+
+.service-horizontal-yellow-content-text span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+}
+
+.service-horizontal-purple-content-text p {
+    color: #A172D2;
+}
+
+.service-horizontal-purple-content-text span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+}
+
+.btn-view-service {
+    position: absolute;
+    right: 20px;
+    visibility: hidden;
+}
+
+.service-horizontal:hover .btn-view-service {
+    visibility: visible;
+}
+
+.service-horizontal:hover .service-horizontal-image img {
+    width: 100%;
+    box-shadow: unset;
+    transition: 0.5s;
+    position: unset;
+}
+
+.service-section {
+    background: unset;
+}
+
+.doctor-service-1 span {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    color: #29313F;
+}
+
+span.online {
+    color: #1A9CC6;
+}
+
+.building-section {
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: linear-gradient(92.93deg, #FFF4F0 0%, #FFDAC4 100%);
+}
+
+.building-section-left p {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    margin-bottom: 8px;
+}
+
+.building-section-left .text-orange {
+    color: #E5714B;
+}
+
+.building-section-left span {
+    color: #798395;
+}
+
+.building-section-right {
+    text-align: right;
+    position: relative;
+}
+
+.building-section-content {
+    position: relative;
+}
+
+.hospital-analytics-content {
+    background: #FFFFFF;
+    box-shadow: 0px 16px 48px #FFD4BD;
+    border-radius: 16px;
+}
+
+.hospital-analytics-item {
+    text-align: center;
+    padding: 20px 32px;
+}
+
+.hospital-analytics-item h1 {
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 48px;
+    background: linear-gradient(180deg, #E5714B 0%, #FFD1C1 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin-bottom: 4px;
+}
+
+.hospital-analytics-item span {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #29313F;
+}
+
+.hospital-analytics {
+    position: absolute;
+    bottom: -30px;
+}
+
+.circle-shape {
+    position: absolute;
+    top: -40px;
+    right: -40px;
+}
+
+.product-section {
+    padding-top: 80px;
+    background: linear-gradient(180deg, rgb(184, 243, 255, 0.3) 0%, rgba(224, 243, 247, 0) 100%);
+}
+
+.category-title {
+    display: inline-flex;
+    align-items: center;
+    text-align: left;
+    position: relative;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.category-title h2 {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    color: #29313F;
+}
+
+.view-all-category {
+    position: absolute;
+    right: 0;
+    color: #1A9CC6;
+}
+
+.view-all-category i {
+    align-items: center;
+    font-size: 10px;
+}
+
+.view-all-category:hover {
+    color: #1A9CC6;
+}
+
+.category-item-content {
+    background: #FFFFFF;
+    border-radius: 16px;
+    text-align: center;
+    padding: 14px;
+}
+
+.category-item-content p {
+    margin-top: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #576071;
+    mix-blend-mode: normal;
+}
+
+.hot-products {
+    position: relative;
+    margin-top: 70px;
+}
+
+.hot-products-content {
+    border: 4px solid #1A9CC6;
+    border-radius: 16px;
+    padding-top: 47px;
+}
+
+.hot-products-title {
+    padding: 0px 15px;
+    position: absolute;
+    top: -20px;
+    left: 40px;
+    background: #F2FCFF;
+}
+
+.hot-products-title h2 {
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 40px;
+    color: #1A9CC6;
+}
+
+.slick-prev,
+.slick-next,
+.pharmacy-home-slider .swiper-button-prev,
+.pharmacy-home-slider .swiper-button-next {
+    border-radius: 8px;
+}
+
+.slick-prev {
+    left: -45px;
+}
+
+.slick-next {
+    right: -45px;
+}
+
+.profile-widget {
+    padding: 0px;
+    border-radius: 16px;
+    border: unset;
+}
+
+.product-content {
+    padding: 12px;
+}
+
+.product-content.speciality {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #576071;
+    mix-blend-mode: normal;
+}
+
+.book-btn {
+    background: #1A9CC6;
+    border-radius: 8px;
+    border: unset;
+
+    padding: 0px
+}
+
+.book-btn p {
+    font-size: 20px;
+    margin: 0;
+}
+
+.product-price p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #F0224F;
+    mix-blend-mode: normal;
+    margin-bottom: 0px;
+}
+
+.product-price span {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.005em;
+    text-decoration-line: line-through;
+    color: #798395;
+    mix-blend-mode: normal;
+}
+
+.percent-sale-label {
+    position: absolute;
+    left: 68.9%;
+    right: 0%;
+    top: 0%;
+    background: #F0224F;
+    border-radius: 0px 16px;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+
+.slick-slide {
+    padding-right: 8px;
+}
+
+.promotion-program {
+    margin-top: 48px;
+}
+
+.promotion-item-content img {
+    width: 100%;
+}
+
+.blog-section {
+    padding-top: 104px;
+    padding-bottom: 88px;
+}
+
+.blog-short-description {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: -0.005em;
+    color: #798395;
+}
+
+.blog-item-big {
+    background: #FFFFFF;
+    border-radius: 16px;
+    padding: 16px;
+}
+
+.blog-item-big:hover {
+    box-shadow: 0px 16px 48px rgba(20, 146, 187, 0.16);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.blog-item-big img {
+    width: 100%;
+}
+
+.blog-item-big p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576071;
+    mix-blend-mode: normal;
+    margin-top: 20px
+}
+
+.blog-item-big span {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+    mix-blend-mode: normal;
+}
+
+.blog-times span {
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+    mix-blend-mode: normal;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.blog-category {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1A9CC6 !important;
+    mix-blend-mode: normal;
+    flex: none;
+    order: 2;
+    flex-grow: 0;
+}
+
+.blog-item-small {
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.blog-item-small:hover {
+    box-shadow: 0px 16px 48px rgba(20, 146, 187, 0.16);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.blog-item-small img {
+    width: 100%;
+}
+
+.blog-item-small-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #576071;
+    mix-blend-mode: normal;
+    margin-bottom: 0px;
+}
+
+.footer-one {
+    background: linear-gradient(180deg, rgba(184, 243, 255, 0.3) 0%, rgba(224, 243, 247, 0) 100%);
+}
+
+.footer-title {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #1A9CC6;
+    mix-blend-mode: normal;
+    margin-bottom: 8px;
+}
+
+.footer-one .footer-menu ul li a {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.005em;
+    color: #798395;
+    mix-blend-mode: normal;
+}
+
+.footer .footer-widget.footer-menu ul li a:hover {
+    color: #798395;
+}
+
+.company-name p {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    color: #1A9CC6 !important;
+    mix-blend-mode: normal;
+    margin-top: 24px;
+}
+
+.tax {
+    margin-top: 8px;
+}
+
+.tax-title p {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.005em;
+    color: #798395 !important;
+    mix-blend-mode: normal;
+}
+
+.tax-value p {
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: -0.005em;
+    color: #29313F !important;
+    mix-blend-mode: normal;
+}
+
+.social-icon {
+    margin-top: 16px;
+}
+
+.footer .social-icon ul li {
+    margin-right: 8px;
+}
+
+.policy-menu {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: -0.005em;
+    color: #798395;
+    mix-blend-mode: normal;
+}
+
+.footer .footer-widget.footer-menu ul {
+    list-style-image: url('../img/list-style-footer.png');
+}
+
+.copyright {
+    padding-top: 0px !important;
+}
+
+.footer .footer-top {
+    padding-bottom: 0px
+}
+
+.building-shape-01 {
+    position: absolute;
+    left: 50%;
+    top: -100px;
+}
+
+.building-shape-02 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.building-shape-03 {
+    position: absolute;
+    right: 100px;
+    bottom: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .sophia-app {
+        text-align: center;
+    }
+
+    .sophia-app p {
+        width: unset;
+    }
+
+    #banner-top {
+        padding-top: 10px;
+    }
+
+    .doctor-service {
+        padding: 0px;
+        font-size: 28px;
+    }
+
+    .search-on-banner {
+        margin-top: 10px
+    }
+
+    .search-on-banner .form-control {
+        padding: 0 100px 0 26px;
+    }
+
+    .home-one-banner {
+        padding-bottom: 50px;
+    }
+
+    .doctor-front img {
+        display: block;
+        width: 50%;
+    }
+
+    .doctor-services {
+        padding-top: 20px;
+    }
+
+    .doctor-services-back img {
+        width: unset;
+    }
+
+    .doctor-shape-1 {
+        top: 100px;
+        left: -30px;
+        width: 40%;
+    }
+
+    .doctor-shape-3 {
+        top: 150px;
+        right: -40px;
+        width: 30%;
+    }
+
+    .doctor-shape-2 {
+        top: 250px;
+        left: 0px;
+    }
+
+    .service-horizontal-content {
+        margin-top: 30px;
+    }
+
+    .building-section {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .building-section-right {
+        display: none;
+    }
+
+    .hospital-analytics {
+        margin: 20px 10px 0 10px;
+        position: unset;
+    }
+
+    .category-item {
+        padding: 2px;
+    }
+
+    .category-item-content img {
+        width: 70%;
+    }
+
+    .category-item-content p {
+        margin-bottom: 0px;
+    }
+
+    .hot-products-title {
+        left: 30px;
+    }
+
+    .hot-products-title h2 {
+        font-size: 20px;
+    }
+
+    .slick-slide {
+        padding-right: 2px;
+    }
+
+    .product-content {
+        padding: 4px;
+    }
+
+    .add-to-cart img {
+        width: 100%;
+    }
+
+    .category-title {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    #promotion-more {
+        bottom: -15px;
+    }
+
+    .blog-section {
+        padding-top: 20px;
+    }
+
+    .blog-item-big {
+        padding: 32px
+    }
+    .footer-menu{
+        padding-left: 20px;
+    }
+}

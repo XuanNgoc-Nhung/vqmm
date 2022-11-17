@@ -27,10 +27,10 @@
                             <th>STT</th>
                             <th>SĐT</th>
                             <th>Phần thưởng</th>
-                            <th>Hình ảnh phần thưởng</th>
+<!--                            <th>Hình ảnh phần thưởng</th>-->
                             <th>Thời gian trúng</th>
                             <th>Trạng thái</th>
-                            <th>Hành động</th>
+<!--                            <th>Hành động</th>-->
                         </tr>
                         </thead>
                         <tbody v-if="list_data&&list_data.length">
@@ -44,17 +44,17 @@
                                 <br>
                                 Trị giá: {{item.value}} vnđ
                             </td>
-                            <td class="text-center">
-                                <img style="width: 120px" :src="item.image" alt="">
-                            </td>
-                            <td class="text-center">{{ item.created_at }}</td>
+<!--                            <td class="text-center">-->
+<!--                                <img style="width: 120px" :src="item.image" alt="">-->
+<!--                            </td>-->
+                            <td class="text-center">{{ item.updated_at }}</td>
                             <td class="text-center">
                                 <el-button v-if="item.status==1" size="mini" type="success">Đã trao giải</el-button>
                                 <el-button v-else size="mini" type="warning">Chưa xử lý</el-button>
                             </td>
-                            <td class="text-center">
-                                <el-button :disabled="item.status==1" size="mini" type="success">Trao giải</el-button>
-                            </td>
+<!--                            <td class="text-center">-->
+<!--                                <el-button :disabled="item.status==1" size="mini" type="success">Trao giải</el-button>-->
+<!--                            </td>-->
                         </tr>
                         </tbody>
                         <tbody v-else>

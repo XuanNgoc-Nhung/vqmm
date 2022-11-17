@@ -16,7 +16,7 @@
                             <th class="text-center">STT</th>
                             <th class="text-center">Tên</th>
                             <th class="text-center">Giá trị</th>
-                            <th class="text-center">Hình ảnh</th>
+                            <th class="text-center">Hình nền</th>
                             <th class="text-center">Tỷ lệ</th>
                             <th class="text-center">Số lượng</th>
                             <th class="text-center">Đã sử dụng</th>
@@ -35,7 +35,7 @@
                             <td>{{ parseInt(item.value).toLocaleString() }} vnđ
                             </td>
                             <td class="text-center">
-                                <img style="width: 120px" :src="item.image" alt="">
+                                <img style="width: 120px; height: 60px" :src="item.image" alt="">
                             </td>
                             <td class="text-center">{{ item.ratio }}%</td>
                             <td class="text-center">{{ item.amount.toLocaleString() }}</td>
@@ -96,7 +96,7 @@
                                 <el-form-item label="Số lượng" prop="amount">
                                     <el-input v-model="thongTinPhanThuong.amount" placeholder="Nhập tỷ lệ"></el-input>
                                 </el-form-item>
-                                <p>Hình ảnh phần thưởng:</p>
+                                <p>Hình nền phần thưởng:</p>
                                 <div class="source d-flex">
                                     <ul class="el-upload-list el-upload-list--picture-card " style="display: contents">
                                         <li v-if="hinhAnhUpload&&hinhAnhUpload!=''" tabindex="0"

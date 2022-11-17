@@ -12,6 +12,11 @@ use Hash;
 
 class MyLoginController extends Controller
 {
+    public function xuanNhan(){
+
+        return view('xuannhan');
+    }
+
     public function getLogin()
     {
         return view('auth.login');
