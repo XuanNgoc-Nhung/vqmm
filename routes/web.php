@@ -13,7 +13,6 @@
 
 use App\Http\Controllers\LuckyWheelController;
 use Illuminate\Support\Facades\Route;
-
 Route::get('/gifts', [LuckyWheelController::class, 'gifts'])->name('luckywheel.gifts');
 Route::get('/', [LuckyWheelController::class, 'index'])->name('luckywheel.index');
 Route::get('/get-spin/{phone}', [LuckyWheelController::class, 'getSpin'])->name('luckywheel.getSpin');
